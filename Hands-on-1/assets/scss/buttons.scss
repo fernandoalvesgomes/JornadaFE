@@ -1,0 +1,11 @@
+.btn{
+    padding: 5px 10px;
+    border-radius: $btn-radius;
+    //btn Laranja
+    &.btn-laranja{
+        background: $color-tercearia;
+        color: $color-branco;
+
+    }
+    //End btn Laranja
+}
